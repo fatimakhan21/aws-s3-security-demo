@@ -103,7 +103,7 @@ Open it in an incognito/private browser window
 
 ❌ You should see Access Denied
 
-📸 Screenshot #6: Access Denied page
+📸 Screenshot #7: Access Denied page
 
 📝 What this confirmed:
 The bucket is not publicly accessible, which means my security settings are working as intended.
